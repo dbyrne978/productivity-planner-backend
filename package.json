@@ -1,0 +1,17 @@
+{
+  "name": "productivity-planner-backend",
+  "version": "1.0.0",
+  "description": "Backend for Productivity Planner",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Byrne",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "nodemon": "^3.0.2"
+  }
+}
